@@ -30,7 +30,6 @@ public:
 
     // access
     T &operator[](int);
-
     T &at(int);
     T &first();
     T &last();
