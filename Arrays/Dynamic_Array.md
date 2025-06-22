@@ -5,6 +5,11 @@ class Dynamic_Array
 ```
 A simplified dynamic array implementation
 
+### Relevant files
+📄 `Dynamic_Array.hpp`
+
+📄 `Dynamic_Array.tpp`
+
 ---
 
 ## Functions
