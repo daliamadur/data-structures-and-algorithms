@@ -44,8 +44,8 @@ let map = new Map();
 
 `Insertion` - $O(1)$
 
-`Deletion` -  $O(1)$
+`Deletion` - $O(1)$
 
-`Search` - $O(1)$ 
+`Search` - $O(1)$
 
 `Access` - $O(1)$
