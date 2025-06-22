@@ -10,6 +10,9 @@
 - Statistical Analysis
 
 ## 💻 Implementation
+### `Manual Implementations`
+<a href="https://github.com/daliamadur/DSA/blob/main/Arrays/Dynamic_Array.md"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40vh"> </a>
+
 ### `Fixed Sized Array`
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
