@@ -7,7 +7,6 @@
 - Caching
 - Lists and Collections
 - Image Processing
-- Statistical Analysis
 
 ## 💻 Implementation
 ### `Manual Implementations`
@@ -69,8 +68,10 @@ let arr = [];
 
 ## Complexity
 
-`Insertion` - End of array $O(1)$, otherwise $O(n)$
+`Insertion` - $O(n)$
 
-`Deletion` - End of array $O(1)$, otherwise $O(n)$
+`Deletion` - $O(n)$
 
-`Traversal` - $O(n^d)$ *where d is the number of dimensions of the array*
+`Search` - $O(n)$
+
+`Access` - $O(1)$
