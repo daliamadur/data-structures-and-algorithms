@@ -66,7 +66,7 @@ let arr = [];
 ```
 > _JavaScript arrays are dynamic and only have a native 1D implementation_
 
-## Complexity
+## ⏱️ Complexity
 
 `Insertion` - $O(n)$
 
