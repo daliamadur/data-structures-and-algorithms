@@ -14,9 +14,7 @@
 ### `Manual Implementations`
 
 <span>
-<a href=""> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40vh"> </a>
-<a href=""> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40vh"> </a>
-<a href=""> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40vh"> </a>
+<a href="https://github.com/daliamadur/DSA/blob/main/HashMaps/HashMap.py"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40vh"> </a>
 </span>
 
 
