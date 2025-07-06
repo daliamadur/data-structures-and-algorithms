@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30vh"> Dynamic_Array
+# [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) Dynamic_Array
 ```cpp
 template<typename T>
 class Dynamic_Array
@@ -6,9 +6,9 @@ class Dynamic_Array
 A simplified dynamic array implementation
 
 ### Relevant files
-📄 `Dynamic_Array.hpp`
+📄 [`Dynamic_Array.hpp`](https://github.com/daliamadur/DSA/blob/c0d3cbc342de004198c5cf4cc72337aecf07ef7e/Arrays/Dynamic_Array.hpp)
 
-📄 `Dynamic_Array.tpp`
+📄 [`Dynamic_Array.tpp`](https://github.com/daliamadur/DSA/blob/c0d3cbc342de004198c5cf4cc72337aecf07ef7e/Arrays/Dynamic_Array.tpp)
 
 ---
 
