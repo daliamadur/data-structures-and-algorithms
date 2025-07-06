@@ -12,11 +12,7 @@
 ## 💻 Implementation
 
 ### `Manual Implementations`
-
-<span>
-<a href="https://github.com/daliamadur/DSA/blob/main/HashMaps/HashMap.py"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40vh"> </a>
-</span>
-
+[![Manual Implementation](https://skillicons.dev/icons?i=py)](https://github.com/daliamadur/DSA/blob/main/HashMaps/HashMap.py)
 
 ### `Library Implementations`
 
