@@ -10,7 +10,12 @@
 
 ## 💻 Implementation
 ### `Manual Implementations`
-<a href="https://github.com/daliamadur/DSA/blob/main/Arrays/Dynamic_Array.md"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40vh"> </a>
+[![Manual Implementation](https://skillicons.dev/icons?i=cpp)](https://github.com/daliamadur/DSA/blob/main/Arrays/Dynamic_Array.md)
+
+### `Mini Projects`
+- [Image Histogram Visualiser](https://github.com/daliamadur/DSA/blob/main/Arrays/Projects/image_histogram_visualiser.py)
+- Slicing Window Maximum
+- CLI Spreadsheet
 
 ### `Fixed Sized Array`
 
