@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +24,7 @@
               "RelativeDocumentMoniker": "Slicing Window Maximum Visualised\\Slicing Window Maximum Visualised.cpp",
               "ToolTip": "C:\\Users\\Chelontae\\Documents\\Personal Edu\\ComSci Portfolio\\CSSkills\\DSA\\Arrays\\Projects\\Slicing Window Maximum Visualised\\Slicing Window Maximum Visualised\\Slicing Window Maximum Visualised.cpp",
               "RelativeToolTip": "Slicing Window Maximum Visualised\\Slicing Window Maximum Visualised.cpp",
-              "ViewState": "AgIAAA0AAAAAAMBVV5kGwBsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAADMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-26T01:09:33.703Z",
               "EditorCaption": ""
