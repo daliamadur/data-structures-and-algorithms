@@ -11,8 +11,8 @@
 
 ## 💻 Implementation
 
-### `Manual Implementations`
-[![Manual Implementation](https://skillicons.dev/icons?i=py)](https://github.com/daliamadur/DSA/blob/main/HashMaps/HashMap.py)
+### `Manual Implementation`
+**↗**[![Manual Implementation](https://skillicons.dev/icons?i=py)](./HashMap/)
 
 ### `Library Implementations`
 

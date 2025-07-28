@@ -9,12 +9,12 @@ def get_values_dict(image_path):
     #initialise empty dictionary
     values = {}
     
-    #iterate through array x,y -> get rgb value
+    #iterate through array x,y -> get l value
     for x in range(width):
         for y in range (height):
             g = image.getpixel((x,y))
 
-            #if color value in dict inc(++), else append with value 1
+            #if l value in dict inc(++), else append with value 1
             if g in values:
                 values[g] += 1
             else:

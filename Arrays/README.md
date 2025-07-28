@@ -9,12 +9,12 @@
 - Image Processing
 
 ## 💻 Implementation
-### `Manual Implementations`
-[![Manual Implementation](https://skillicons.dev/icons?i=cpp)](https://github.com/daliamadur/DSA/blob/main/Arrays/Dynamic_Array.md)
+### `Manual Implementation`
+**↗**[![Manual Implementation Directory](https://skillicons.dev/icons?i=cpp)](./Dynamic_Array/)
 
 ### `Mini Projects`
-- [Image Histogram Visualiser](https://github.com/daliamadur/DSA/blob/main/Arrays/Projects/image_histogram_visualiser.py)
-- Slicing Window Maximum
+- [Image Histogram Visualiser](./Projects/Image%20Histogram%20Visualiser)
+- [Slicing Window Maximum Visualised](./Projects/Slicing%20Window%20Maximum%20Visualised/)
 - CLI Spreadsheet
 
 ### `Fixed Sized Array`

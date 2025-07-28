@@ -1,4 +1,4 @@
-#include "Dynamic_Array.hpp"
+#include "Dynamic_Array\Dynamic_Array\Dynamic_Array.hpp"
 #include <string>
 #include <iostream>
 
