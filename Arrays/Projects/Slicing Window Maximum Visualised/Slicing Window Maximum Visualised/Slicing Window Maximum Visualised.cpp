@@ -86,12 +86,15 @@ int main()
     int k = 3;
 
     //paragraph
-    cout << "--- MAX SLICING WINDOW ALGORITHM VISUALISED ---" << endl << endl;
-    cout << "You are given an array of integers nums and an integer k. ";
-    cout << "There is a sliding window of size k that starts at the left edge of the array ";
-    cout << "The window slides one position to the right until it reaches the right edge of the array. " << endl << endl;
-    cout << "Return a list that contains the maximum element in the window at each step." << endl << endl;
-    cout << "----------------------------------------" << endl << "Array = ";
+    const char* paragraph = R"""(--- MAX SLICING WINDOW ALGORITHM VISUALISED ---
+You are given an array of integers nums and an integer k.
+There is a sliding window of size k that starts at the left edge of the array
+The window slides one position to the right until it reaches the right edge of the array. 
+Return a list that contains the maximum element in the window at each step.
+----------------------------------------
+Array = )""";
+
+    cout << paragraph;
     printVec(vec);
     cout << " | k = " << k << endl;
     cout << "{x, y, z} => current window" << endl << "----------------------------------------" << endl << endl;
