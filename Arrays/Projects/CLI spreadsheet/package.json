@@ -1,0 +1,17 @@
+{
+  "name": "cli-spreadsheet",
+  "version": "1.0.0",
+  "main": "Spreadsheet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^14.0.0",
+    "conf": "^14.0.0"
+  }
+}
