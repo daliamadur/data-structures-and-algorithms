@@ -1,4 +1,4 @@
-const chalk = require('chalk');
+import chalk from ('chalk');
 
 function remove(sheet, cell) {
 

@@ -1,4 +1,4 @@
-const chalk = require('chalk');
+import chalk from ('chalk');
 
 function toNum(char) {
     return 65 - char.charCodeAt(0);

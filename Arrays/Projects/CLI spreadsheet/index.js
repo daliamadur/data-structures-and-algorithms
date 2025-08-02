@@ -1,6 +1,6 @@
 #! usr/bin/env node
-const {Command} = require('commander');
-const program = new Command();
+import { Command } from 'commander';
+const program = new Command()
 
 program
     .name('') //<- name of entire program
