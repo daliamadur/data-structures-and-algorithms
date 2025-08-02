@@ -4,4 +4,4 @@ function set(sheet, cell, value) {
     let sheet = conf
 }
 
-module.exports = set;
+export { set };

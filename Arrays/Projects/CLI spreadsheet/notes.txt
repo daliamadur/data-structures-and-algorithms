@@ -1,32 +1,38 @@
--- TOP MENU --
-1. CREATE NEW SPREADSHEET
-2. HELP
-3. EXIT
+📋 tasks
+  - funcitonality modules
+  - sheet data structure (2D array)
+  - CLI functions
 
--- EDITOR --
-1. HELP
-2. SAVE SPREADSHEET AS FILE => PLEASE ENTER FILE NAME
-3. EXIT WITHOUT SAVING => ARE YOU SURE? 1. YES 2. NO
+📒 notes
+  -- TOP MENU --
+  1. CREATE NEW SPREADSHEET
+  2. HELP
+  3. EXIT
 
-
--- HELP --
-SET - assign a value to a cell
-Syntax: SET {cell} {value}
-
-PRINT - prints current spreadsheet
-
-DELETE - deletes the contents of a cell, column or row
-Syntax: DELETE {cell/column/row} {name}
-
-1. OK
+  -- EDITOR --
+  1. HELP
+  2. SAVE SPREADSHEET AS FILE => PLEASE ENTER FILE NAME
+  3. EXIT WITHOUT SAVING => ARE YOU SURE? 1. YES 2. NO
 
 
-  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-1 
-2
-3
-4
-5
-6
-7
-8
+  -- HELP --
+  SET - assign a value to a cell
+  Syntax: SET {cell} {value}
+
+  PRINT - prints current spreadsheet
+
+  DELETE - deletes the contents of a cell, column or row
+  Syntax: DELETE {cell/column/row} {name}
+
+  1. OK
+
+
+    A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+  1 
+  2
+  3
+  4
+  5
+  6
+  7
+  8

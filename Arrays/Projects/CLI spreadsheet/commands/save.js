@@ -4,4 +4,4 @@ function save(sheet) {
 
 }
 
-module.exports = save;
+export { save };

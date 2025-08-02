@@ -8,4 +8,4 @@ function print(sheet) {
 
 }
 
-module.exports = print;
+export { print };

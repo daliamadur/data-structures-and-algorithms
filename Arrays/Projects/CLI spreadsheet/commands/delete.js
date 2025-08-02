@@ -4,4 +4,4 @@ function remove(sheet, cell) {
 
 }
 
-module.exports = remove;
+export { remove };
