@@ -1,7 +1,7 @@
 # Slicing Window Maximum Visualised
 Shows the steps and output for the Slicing Window Maximum algrorithm
 
-📄 [Slicing Window Maximum Visualised.cpp](./Slicing%20Window%20Maximum%20Visualised/Slicing%20Window%20Maximum%20Visualised.cpp)
+📄 [`Slicing Window Maximum Visualised.cpp`](./Slicing%20Window%20Maximum%20Visualised/Slicing%20Window%20Maximum%20Visualised.cpp)
 
 ## Methods
 ### `printVec(vector<T> vec, int window_start, int k)`
